@@ -1,0 +1,25 @@
+### BANTI SCHOOL MANAGEMENT SYSTEM
+
+# BANTI SCHOOL ADMINISTRATION
+The administration section will deal with day to day running of the school.
+
+Attendance logging for staff and students
+
+Class performance monitoring
+
+Staff performance monitoring
+
+Student performance monitoring
+
+Result uploading
+
+Payments [school fees, Salary]
+
+# BANTI SCHOOL ACADEMICS
+    This subsection will handle all academic related activities which includes
+    <ul>
+        <li>Creation of courses and course modules</li>
+        <li> Class scheduling </li>
+
+        <li> Course registration </li>    
+    </ul>
